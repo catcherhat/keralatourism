@@ -339,7 +339,7 @@ textarea {
     .tm-service-img { margin-right: 0; }
     .tm-service-img-r { margin-left: 0; }
 }
- .logo img{
+ /*.logo img{
     border: 2px solid black;
     padding: 10px;
     width: 100%;
